@@ -1,5 +1,3 @@
-package entites;
-
 public class OrderItem {
     private Integer quantity;
     private double subTotal;    
