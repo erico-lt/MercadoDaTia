@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "entites.and.enums/enums",
+        "entites.and.enums/entites",
+        "entites",
+        "entites.and.enums"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
